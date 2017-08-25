@@ -1,14 +1,19 @@
 body {
-  background: #bdbdbd;
+  background: #8F8F8F;
   font-family: 'Open Sans', sans-serif;
+  padding: 0;
+  margin: 0;
 }
 header {
+  background: black;
   border-bottom: 2px solid #6D0202;
-  margin: 2em 0;
+  margin: 0 0 1em 0;
+  padding: 1em 0;
 }
 h1 {
   text-align: left;
   color: #6D0202;
+  margin: 0;
 }
 
 
